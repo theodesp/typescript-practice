@@ -1,1 +1,1 @@
-import './algorithms/integerRanges';
+import './algorithms/maxSubArray';
