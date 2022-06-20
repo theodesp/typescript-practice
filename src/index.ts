@@ -1,1 +1,1 @@
-import './algorithms/maxSubArray';
+import './algorithms/generateAllPermutations';
